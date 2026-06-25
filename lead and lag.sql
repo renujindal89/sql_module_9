@@ -1,4 +1,5 @@
 create database lead_fn;
+create database jatin;
 use lead_fn;
 CREATE TABLE EmployeeSales (
     EmployeeID INT,
