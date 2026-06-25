@@ -1,5 +1,6 @@
 -- FINAL---
 USE MODULE9WINDOW;
+craete database renu;
 drop table sales;
 CREATE TABLE sales (
     store_id INT AUTO_INCREMENT PRIMARY KEY,
